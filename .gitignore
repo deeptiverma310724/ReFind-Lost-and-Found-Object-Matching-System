@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Private user records and uploaded images
+data/processed/items.csv
+data/processed/items_backup.csv
+data/processed/images/*
+
+# Local system files
+.DS_Store
+Thumbs.db
